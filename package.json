@@ -42,7 +42,7 @@
   "dependencies": {
     "async": "~0.2.9",
     "glob": "~3.2.6",
-    "java": ">=0.2.8",
+    "java": "0.3.6",
     "underscore": "~1.5.2"
   },
   "devDependencies": {
